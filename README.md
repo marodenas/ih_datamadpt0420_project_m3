@@ -4,7 +4,9 @@
 # IRONHACK 
 ## Data Analysis Bootcamp - Project III - Kaggle Competition  
   
-![Image](https://images.unsplash.com/photo-1457969414820-5fdd86fc0b84?ixlib=rb-1.2.1&auto=format&fit=crop&crop=entropy&w=1620&h=500&q=80)  
+![Image](https://images.unsplash.com/photo-1591453089816-0fbb971b454c?ixlib=rb-1.2.1&auto=format&fit=crop&crop=top&w=1620&h=700&q=80)  
+
+
 
 ## Table of Contents  
 
@@ -19,7 +21,7 @@
   
 ## About the project  
   
-The aim of this repository is to show the adquire skills throught Module 13of Data Analytics in IronHack's Bootcamp [PT2020]  
+The aim of this repository is to show the adquire skills throught Module 3 of Data Analytics in IronHack's Bootcamp [PT2020]  
 To show our skills, we have participated in a kaggle competition where we predicted diamond's price from a given dataset. 
 
 
