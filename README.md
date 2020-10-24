@@ -11,12 +11,10 @@
 ## Table of Contents  
 
 * [About the Project](#about-the-project)  
-  * [Challenge 1](#pushpin-challenge-1)  
-  * [Challenge 2](#pushpin-challenge-2)  
+  * [Challenge 1](#pushpin-challenge-1)   
   * [Built With](#hammer-built-with)  
 * [Project Structure](#project-structure)  
-  * [Dataset Analysis](#page_with_curl-dataset-analysis)  
-  * [Tableau Report](#tableau-report)  
++ [Folder Structure](#folder-structure) 
 * [Next Stages](#next-stages) 
   
 ## About the project  
